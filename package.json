@@ -1,0 +1,22 @@
+{
+  "name": "bot_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "By :cyclone:-ℂ𝕖𝕞𝕜𝕒#4342",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "install": "^0.13.0",
+    "moment-timezone": "^0.5.27",
+    "ms": "^2.1.2",
+    "npm": "^6.13.7",
+    "ping": "^0.2.2",
+    "require-all": "^3.0.0",
+    "web": "0.0.2"
+  }
+}
